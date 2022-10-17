@@ -1,6 +1,6 @@
 # AI_baseball_diving_catch_SRT
 
-## Main code are at the below github repo
+### Main code are at the below github repo
 
 Due to the limit of the upload file size, the rest of the SRT part is at here  
 
