@@ -1,4 +1,4 @@
-# AI_baseball_diving_catch_SRT
+# AIGO_baseball_diving_catch_SRT
 
 ### Main code are at the below github repo
 
