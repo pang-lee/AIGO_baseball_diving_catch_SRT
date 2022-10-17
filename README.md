@@ -5,4 +5,4 @@
 Due to the limit of the upload file size, the rest of the SRT part is at here  
 
 Complete Origin Code:  
-[https://github.com/pang-lee/AI_baseball_diving_catch_python](https://github.com/pang-lee/AIGO_baseball_diving_catch_python)
+https://github.com/pang-lee/AI_baseball_diving_catch_python
